@@ -1,0 +1,28 @@
+{
+  "id": "48104e97-ff7d-4039-83a2-09e864269918",
+  "name": "My App",
+  "publisher": "My Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 56000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
