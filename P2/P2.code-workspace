@@ -5,6 +5,9 @@
     },
     {
       "path": "My App"
+    },
+    {
+      "path": "My TestApp"
     }
   ],
   "settings": {}
